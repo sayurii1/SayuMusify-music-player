@@ -1,2 +1,2 @@
 # SayuMusify-music-player
-A music player developed using HTML, CSS and JavaScript which plays 5 different songs along with their album covers.
+Created a music player using HTML, CSS, and JavaScript that displays album covers and plays 5 songs. Demonstrated skills in front-end development and multimedia integration.
